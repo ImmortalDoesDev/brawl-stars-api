@@ -1,0 +1,30 @@
+{
+  "name": "brawl-stars-api",
+  "version": "0.0.3",
+  "description": "An API Wrapper for Brawl Stars API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImmortalEvil/brawl-stars-api.git"
+  },
+  "keywords": [
+    "api",
+    "brawl-stars",
+    "brawl-stars"
+  ],
+  "author": "Immortal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImmortalEvil/brawl-stars-api/issues"
+  },
+  "homepage": "https://github.com/ImmortalEvil/brawl-stars-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
